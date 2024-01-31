@@ -24,7 +24,7 @@ body {
 }
 .texto_bienvenida {
     min-height: 400px;
-    background-image: url(/assets/img/img_fondo_bievenida.jpg);
+    background-image: url(../img/img_fondo_bievenida.jpg);
     background-position: center;
     background-repeat: none;
     background-size: cover;
