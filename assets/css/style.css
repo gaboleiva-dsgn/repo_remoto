@@ -22,3 +22,13 @@ body {
     max-width: 100%;
     border-radius: 50%;
 }
+.texto_bienvenida {
+    min-height: 400px;
+    background-image: url(/assets/img/img_fondo_bievenida.jpg);
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+}
+.texto_bienvenida h3 {
+    font-size: 1.6rem;
+}
