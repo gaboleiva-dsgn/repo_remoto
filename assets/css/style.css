@@ -32,3 +32,7 @@ body {
 .texto_bienvenida h3 {
     font-size: 1.6rem;
 }
+
+.navbar-brand {
+    font-size: 2rem !important;
+}
